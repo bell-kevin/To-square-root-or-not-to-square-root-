@@ -1,2 +1,4 @@
 # To-square-root-or-not-to-square-root
-To square(root) or not to square(root). java. kata. code wars. solution. Write a method, that will get an integer array as parameter and will process every number from this array.  Return a new array with processing every number of the input-array like this:  If the number has an integer square root, take this, otherwise square the number. example [4,3,9,7,2,1] becomes [2,9,3,49,4,1] The input array will always contain only positive numbers, and will never be empty or null
+Write a method that gets an integer array as a parameter and processes every number in this array. If the number in the array has an integer square root, then take the square root of number. Otherwise, square the number. The result is returned in a new array. 
+
+For example, [4,3,9,7,2,1] becomes [2,9,3,49,4,1]. The input array will always contain only positive numbers and will never be empty or null. 
